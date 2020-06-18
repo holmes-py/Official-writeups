@@ -261,7 +261,7 @@ This gives us information about a weird database called `challenge` <br />
  --------------------------------------------------------------------------------------------------------
  
  It was an amazing experience to make a box like this. <br />
- If you have any queries or suggesions you can reach out to me on twitter: https://twitter.com/\_\_MrHolmes
+ If you have any queries or suggesions you can reach out to me on twitter: https://twitter.com/__MrHolmes
  
  
  
